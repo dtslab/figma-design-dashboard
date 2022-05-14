@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/figma-design-dashboard/static/css/main.d9691dd0.css",
+    "main.js": "/figma-design-dashboard/static/js/main.a806154a.js",
+    "static/js/787.545aecf5.chunk.js": "/figma-design-dashboard/static/js/787.545aecf5.chunk.js",
+    "static/media/transportIcon.svg": "/figma-design-dashboard/static/media/transportIcon.442d2bddf74a5a9e6b1baf3c5f50c35f.svg",
+    "index.html": "/figma-design-dashboard/index.html",
+    "static/media/cartIcon.svg": "/figma-design-dashboard/static/media/cartIcon.0471469763bfb5f1b49fcf9e0639863f.svg",
+    "static/media/houseIcon.svg": "/figma-design-dashboard/static/media/houseIcon.da02fe3867faabdbe9a4ee08f43687ba.svg",
+    "main.d9691dd0.css.map": "/figma-design-dashboard/static/css/main.d9691dd0.css.map",
+    "main.a806154a.js.map": "/figma-design-dashboard/static/js/main.a806154a.js.map",
+    "787.545aecf5.chunk.js.map": "/figma-design-dashboard/static/js/787.545aecf5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9691dd0.css",
+    "static/js/main.a806154a.js"
+  ]
+}
